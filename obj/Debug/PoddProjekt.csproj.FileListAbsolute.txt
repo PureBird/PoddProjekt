@@ -1,0 +1,9 @@
+C:\Users\patri\Desktop\VisualCode Programmering\PoddProjekt\bin\Debug\PoddProjekt.exe.config
+C:\Users\patri\Desktop\VisualCode Programmering\PoddProjekt\bin\Debug\PoddProjekt.exe
+C:\Users\patri\Desktop\VisualCode Programmering\PoddProjekt\bin\Debug\PoddProjekt.pdb
+C:\Users\patri\Desktop\VisualCode Programmering\PoddProjekt\obj\Debug\PoddProjekt.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\VisualCode Programmering\PoddProjekt\obj\Debug\PoddProjekt.Properties.Resources.resources
+C:\Users\patri\Desktop\VisualCode Programmering\PoddProjekt\obj\Debug\PoddProjekt.csproj.GenerateResource.cache
+C:\Users\patri\Desktop\VisualCode Programmering\PoddProjekt\obj\Debug\PoddProjekt.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\VisualCode Programmering\PoddProjekt\obj\Debug\PoddProjekt.exe
+C:\Users\patri\Desktop\VisualCode Programmering\PoddProjekt\obj\Debug\PoddProjekt.pdb
