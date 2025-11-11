@@ -8,9 +8,8 @@ namespace PoddProjekt
 {
     internal static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        private static readonly MongoDBServices service = new MongoDBServices();
+
         [STAThread]
         static void Main()
         {
@@ -22,9 +21,18 @@ namespace PoddProjekt
             //Test2
         }
 
-        public int start(int x, int y)
-        {
-            return x + y;
+            // Testkod
+
+            Medlem medlem1 = new Medlem("1", "Axel", "Axel@gmail.com", 10);
+
+            service.LaggTillMedlem(medlem1);
+
+            List<Medlem> allaMedlemmar = service.HamtaAllaMedlemmar();
+
+            foreach(Medlem m in allaMedlemmar)
+            {
+                System.Diagnostics.Debug.WriteLine(m.Namn);
+            }
         }
     }
 }
