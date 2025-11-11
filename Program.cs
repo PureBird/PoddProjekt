@@ -19,5 +19,10 @@ namespace PoddProjekt
             Application.Run(new Form1());
             //HALLLLÅÅÅÅÅÅ
         }
+
+        public int start(int x, int y)
+        {
+            return x + y;
+        }
     }
 }
