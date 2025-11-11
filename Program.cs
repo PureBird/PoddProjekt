@@ -18,6 +18,13 @@ namespace PoddProjekt
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //HALLLLÅÅÅÅÅÅ
+            //test
+            //test2
+        }
+
+        public int start(int x, int y)
+        {
+            return x + y;
         }
     }
 }
