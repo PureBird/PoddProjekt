@@ -18,6 +18,7 @@ namespace PoddProjekt
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //HALLLLÅÅÅÅÅÅ
+            //test
         }
 
         public int start(int x, int y)
